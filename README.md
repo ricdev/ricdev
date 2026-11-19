@@ -14,7 +14,7 @@ Most of it lives in private repos, so here's what it does:
 - **A live site that books calls:** [ricmonteverde.info](https://ricmonteverde.info/?utm_source=github&utm_medium=profile) with real-time call booking and [six live AI demos](https://ricmonteverde.info/?utm_source=github&utm_medium=profile#demos).
 - **Business automation:** n8n workflows for content publishing, lead capture and invoicing.
 - **Browser automation:** Playwright for research, scraping and QA.
-- **My own stack:** 30+ self-hosted Docker containers, GitHub Actions CI/CD, analytics, a funnel and a CRM.
+- **My own stack:** 29 self-hosted Docker containers, GitHub Actions CI/CD, analytics, a funnel and a CRM.
 
 ## Stack
 
