@@ -10,7 +10,7 @@ I spent 12 years at Code and Theory, a global digital agency, shipping web and m
 
 Most of it lives in private repos, so here's what it does:
 
-- **ICM rig:** I built a 10-agent orchestration system, then moved it to ICM (Interpretable Context Methodology): 7 systems and 29 skills as plain folders that any AI model can run. Markdown maps, stage contracts and scripts, so I can read every step.
+- **ICM rig:** I built a 10-agent orchestration system, then moved it to ICM (Interpretable Context Methodology): 7 systems and 33 skills as plain folders that any AI model can run. Markdown maps, stage contracts and scripts, so I can read every step.
 - **A live site that books calls:** [ricmonteverde.info](https://ricmonteverde.info/?utm_source=github&utm_medium=profile) with real-time call booking and [six live AI demos](https://ricmonteverde.info/?utm_source=github&utm_medium=profile#demos).
 - **Business automation:** n8n workflows for content publishing, lead capture and invoicing.
 - **Browser automation:** Playwright for research, scraping and QA.
