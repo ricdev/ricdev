@@ -18,8 +18,8 @@ Most of it lives in private repos, so here's what it does:
 
 ## Stack
 
-React · Next.js · Node.js · Laravel · Swift · Kotlin
-Claude · Codex · n8n
+React · Next.js · Node.js · Laravel · Swift · Kotlin\
+Claude · Codex · n8n\
 Docker · GitHub Actions · nginx
 
 ## Open to
